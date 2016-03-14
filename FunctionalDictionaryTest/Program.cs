@@ -25,3 +25,4 @@ namespace FunctionalDictionaryTest
         }
     }
 }
+//კომენტარი
